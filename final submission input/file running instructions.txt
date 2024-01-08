@@ -1,0 +1,8 @@
+method 1,
+clone code from git repo
+add the artifacts folder to the cloned main folder
+run web app.py.
+method 2
+clone code add artifacts to the folder, run main.py and then run app.py
+method 3
+directly run web app.py from onedrive files
